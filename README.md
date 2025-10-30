@@ -1,4 +1,4 @@
-## 📄 [View my CV on Google Drive]([https://drive.google.com/tu-link-aqui](https://drive.google.com/file/d/1BCMxVUsWJqeMWgsVGJrkZ_C46kAXgigo/view?usp=drive_link))
+## 📄 [View my CV on Google Drive](https://drive.google.com/file/d/1BCMxVUsWJqeMWgsVGJrkZ_C46kAXgigo/view?usp=drive_link)
 
 - 🔭 I’m currently focused on learning and improving my skills as a developer.  
 - 🌱 I’m currently learning TypeScript and building personal projects to practice what I learn.  
