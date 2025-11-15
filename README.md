@@ -83,7 +83,7 @@ A web platform designed to help tourists discover, compare, and explore travel p
 
 - 🧑‍💻 Personal GitHub: **https://github.com/Javi0505**  
 - 🧑‍💻 Institutional GitHub: **https://github.com/JavierCaceres5**  
-- 💼 LinkedIn: **www.linkedin.com/in/javier-cáceres-7b45ba368**  
+- 💼 LinkedIn: **www.linkedin.com/in/javier-caceres-7b45ba368**  
 - 📧 Personal email: **jalejandrocc75@gmail.com**  
 - 📧 Institutional email: **00068223@uca.edu.sv**  
 - 📷 Instagram: **[@javier.caceres5](https://instagram.com/javier.caceres5)**  
