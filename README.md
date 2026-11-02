@@ -88,8 +88,6 @@ A web platform designed to help tourists discover, compare, and explore travel p
 - 📧 Personal email: **jalejandrocc75@gmail.com**  
 - 📧 Institutional email: **00068223@uca.edu.sv**  
 - 📷 Instagram: **[@javier.caceres5](https://instagram.com/javier.caceres5)**  
-- 📄 CV: [View my CV on Google Drive](https://drive.google.com/file/d/1BCMxVUsWJqeMWgsVGJrkZ_C46kAXgigo/view)
-
 ---
 
 ## 📊 GitHub Stats
